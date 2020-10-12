@@ -14,6 +14,6 @@ Günlük 1 Kere Sms Atabilirsiniz. ✔
 
 Çalıştırmak İçin : python3 smsgönderme.py
 
-#####################################
+
 # Güncellendi 
-####################################
+

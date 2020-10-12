@@ -11,7 +11,9 @@ Kullanımı Çok Basit Python Üzerine Yazılmış Bir Programdır.💯
 
 Günlük 1 Kere Sms Atabilirsiniz. ✔
 
-Discord Grubumuz▶️ : https://discord.gg/XvQ4FPm
 
 Çalıştırmak İçin : python3 smsgönderme.py
 
+#####################################
+# Güncellendi 
+####################################

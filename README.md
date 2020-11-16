@@ -16,4 +16,3 @@ Günlük 1 Kere Sms Atabilirsiniz. ✔
 
 
 # Güncellendi 
-Discord Grubumuz ▶️ https://discord.gg/3JCvget

@@ -1,15 +1,14 @@
 # Ücretsiz Sms
-Bu Program Alvatador  Tarafından ByChan İçin Hazırlanmıştır.
+Bu Program Alvatador  Tarafından Hazırlanmıştır.
 
 Youtube ▶️ : https://www.youtube.com/channel/UCOQpX0QhPK6n0iTC-6KYXRg?view_as=subscriber
 
-Instagram 📸 : alvatadorsz
+discord 📸 : ibriska#6788
 
-ByChan Hack Tool İçin Sms Gönderme Aracı. 💯
 
 Kullanımı Çok Basit Python Üzerine Yazılmış Bir Programdır.💯  
 
-Günlük 1 Kere Sms Atabilirsiniz. ✔
+Günlük 1 Kere Sms Atabilirsiniz. ✔ (Vpnle Daha Fazla Atabilirsiniz)
 
 
 Çalıştırmak İçin : python3 smsgönderme.py

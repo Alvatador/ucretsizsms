@@ -4,12 +4,14 @@
 import requests
 from os import system as s
 import os
+import time
 from colorama import Fore, Back, Style
 
 
 
 
-banner = print(Fore.BLUE+"""
+
+banner = print(Fore.YELLOW+"""
     ___    __            __            __          
    /   |  / /   ______ _/ /_____ _____/ /___  _____
   / /| | / / | / / __ `/ __/ __ `/ __  / __ \/ ___/
@@ -17,15 +19,15 @@ banner = print(Fore.BLUE+"""
 /_/  |_/_/ |___/\__,_/\__/\__,_/\__,_/\____/_/     
                                                    
 
-| Hergün 1 Tane Mesaj Atma Hakkınız Vardır
+| Hergün 1 Tane Mesaj Atma Hakkınız Vardır (Vpnle İstediğiniz Kadar Atabilirsiniz)
 | Mesajınız Karakter Sayısı Sınırlı Bunu Mesajınızı Yazdıktan Sonra Görüceksiniz.
-| Telefon Numarasını Doğru Girmezseniz Hata Alabilrsiniz.
+| Telefon Numarasını Doğru Girmezseniz Hata Alabilirsiniz.
 
 """)
 
 print(banner)
 
-sor = input("Tel adresi Örn:+905404212233 >>> ")
+sor = input("Tel adresi Örnek:+905404212233 >>> ")
 
 mesaj = input("Mesajınız >>> ")
 
@@ -50,25 +52,39 @@ else:
     print("\n|Hata!")
 os.system("clear")
 print("Bizi Tercih Ettiğiniz İçin Teşekkürler")
+print("Bizi Tercih Ettiğiniz İçin Teşekkürler")
+print("Bizi Tercih Ettiğiniz İçin Teşekkürler")
+print("Bizi Tercih Ettiğiniz İçin Teşekkürler")
+print("Bizi Tercih Ettiğiniz İçin Teşekkürler")
+time.sleep(1)
+os.system("clear")
 print("          ___    __            __            __           ")
 print("         /   |  / /   ______ _/ /_____ _____/ /___  _____ ")
 print("        / /| | / / | / / __ `/ __/ __ `/ __  / __ \/ ___/ ")
 print("       / ___ |/ /| |/ / /_/ / /_/ /_/ / /_/ / /_/ / /     ")
 print("      /_/  |_/_/ |___/\__,_/\__/\__,_/\__,_/\____/_/      ")
-print("                        ↑ ↑ ↑                             ")
-print("            scripted by ↑ ↑ ↑                             ")
-print("                        ↑ ↑ ↑                             ") 
-print("                                                          ") 
-print("                                                          ") 
-print("       Eğer mesajınız gitmediyse günlük hakkınız dolmuştur. Günlük Hakkınız 1'dir")                                                                
-print("                                                          ") 
-print("                                                          ") 
-print("                                                          ")
-print("           By Chan Sms Gönderme Aracı                     ")
-print("                                                          ") 
-print("                                                          ")                                           
-
-
+time.sleep(1)
+print(" ")
+print("Alvatador Ücretsiz Sms Gönderme")
+time.sleep(1)
+os.system("clear")
+print(" ")
+print("İletişim Adresleri")
+banner = print(Fore.RED+"""
+  ______   __                        __                      __                     
+ /      \ /  |                      /  |                    /  |                    
+/$$$$$$  |$$ | __     __  ______   _$$ |_     ______    ____$$ |  ______    ______  
+$$ |__$$ |$$ |/  \   /  |/      \ / $$   |   /      \  /    $$ | /      \  /      \ 
+$$    $$ |$$ |$$  \ /$$/ $$$$$$  |$$$$$$/    $$$$$$  |/$$$$$$$ |/$$$$$$  |/$$$$$$  |
+$$$$$$$$ |$$ | $$  /$$/  /    $$ |  $$ | __  /    $$ |$$ |  $$ |$$ |  $$ |$$ |  $$/ 
+$$ |  $$ |$$ |  $$ $$/  /$$$$$$$ |  $$ |/  |/$$$$$$$ |$$ \__$$ |$$ \__$$ |$$ |      
+$$ |  $$ |$$ |   $$$/   $$    $$ |  $$  $$/ $$    $$ |$$    $$ |$$    $$/ $$ |      
+$$/   $$/ $$/     $/     $$$$$$$/    $$$$/   $$$$$$$/  $$$$$$$/  $$$$$$/  $$/                                                                                      
+""")
+print(banner)
+banner = print(Fore.GREEN+"""
+Discord: ibriska#6788
+""")
 
 
 

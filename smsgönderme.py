@@ -83,7 +83,7 @@ $$/   $$/ $$/     $/     $$$$$$$/    $$$$/   $$$$$$$/  $$$$$$$/  $$$$$$/  $$/
 """)
 print(banner)
 banner = print(Fore.GREEN+"""
-Discord: ibriska#6788
+Discord: BoranBeyy#0001
 """)
 
 

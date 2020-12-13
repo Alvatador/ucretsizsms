@@ -3,7 +3,7 @@ Bu Program Alvatador  Tarafından Hazırlanmıştır.
 
 Youtube ▶️ : https://www.youtube.com/channel/UCOQpX0QhPK6n0iTC-6KYXRg?view_as=subscriber
 
-discord 📸 : ibriska#6788
+discord 📸 : BoranBeyy#0001
 
 
 Kullanımı Çok Basit Python Üzerine Yazılmış Bir Programdır.💯  

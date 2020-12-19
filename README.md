@@ -1,9 +1,8 @@
 # Ücretsiz Sms
 Bu Program Alvatador  Tarafından Hazırlanmıştır.
 
-Youtube ▶️ : https://www.youtube.com/channel/UCOQpX0QhPK6n0iTC-6KYXRg?view_as=subscriber
 
-discord 📸 : BoranBeyy#0001
+discord 📸 : Alvatador#1000 
 
 
 Kullanımı Çok Basit Python Üzerine Yazılmış Bir Programdır.💯  
@@ -14,4 +13,4 @@ Günlük 1 Kere Sms Atabilirsiniz. ✔ (Vpnle Daha Fazla Atabilirsiniz)
 Çalıştırmak İçin : python3 smsgönderme.py
 
 
-# Güncellendi 
+# Güncellendi 19.12.2020

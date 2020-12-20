@@ -97,5 +97,5 @@ print(banner)
 print("İletişim Adresleri")
 banner = print(Fore.GREEN+"""
 Discord: Alvatador#1000
-İnstagram: boranpxrd
+İnstagram: boranokans
 """)

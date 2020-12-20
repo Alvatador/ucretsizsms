@@ -13,4 +13,4 @@ Günlük 1 Kere Sms Atabilirsiniz. ✔ (Vpnle Daha Fazla Atabilirsiniz)
 Çalıştırmak İçin : python3 smsgönderme.py
 
 
-# Güncellendi 19.12.2020
+# Güncellendi 20.12.2020

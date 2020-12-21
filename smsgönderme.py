@@ -11,7 +11,6 @@ from colorama import Fore, Back, Style
 print("[ENG] Welcome To Free Sms Tool")
 time.sleep(3)
 
-os.system("clear")
 
 print("[TR] Hoşgeldin Ücretsiz Sms Aracına ")
 time.sleep(3)
@@ -20,7 +19,8 @@ os.system("clear")
 
 
 banner = print(Fore.YELLOW+
-"""   ___    __            __            __          
+""" 
+      ___    __            __            __          
      /   |  / /   ______ _/ /_____ _____/ /___  _____
     / /| | / / | / / __ `/ __/ __ `/ __  / __ \/ ___/
    / ___ |/ /| |/ / /_/ / /_/ /_/ / /_/ / /_/ / /    
@@ -35,7 +35,6 @@ banner = print(Fore.YELLOW+
 [TR] Telefon Numarasını Doğru Girmezseniz Hata Alabilirsiniz.
 [ENG] If You Don't Enter The Phone Number Correctly, You May Get An Error.
 """)
-print(banner)
 
 
 sor = input("Telefon Numarası Örnek: +905404212233 >>> ")
@@ -90,11 +89,14 @@ banner = print(Fore.RED+
    ╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝  """)                                                                                                                                                           
 time.sleep(1)
 os.system("clear")
-print(banner)
-print("İletişim Adresleri")
+print("İletişim Adresleri ↓↓↓↓")
 banner = print(Fore.GREEN+
 """
-Discord: Alvatador#1000
+Discord: Alvatador#1000""")
+
+
+banner = print(Fore.YELLOW+"""
+
 İnstagram: boranokans""")
 
 

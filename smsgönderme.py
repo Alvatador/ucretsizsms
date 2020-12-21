@@ -9,11 +9,11 @@ from colorama import Fore, Back, Style
 
 
 print("[ENG] Welcome To Free Sms Tool")
-time.sleep(3)
+time.sleep(2)
 
 
 print("[TR] Hoşgeldin Ücretsiz Sms Aracına ")
-time.sleep(3)
+time.sleep(2)
 
 os.system("clear")
 

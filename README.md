@@ -2,7 +2,7 @@
 Bu Program Alvatador  Tarafından Hazırlanmıştır.
 
 
-discord 📸 : https://discord.gg/WrQafWydp7
+discord 📸 : discord.gg/WrQafWydp7
 
 
 Kullanımı Çok Basit Python Üzerine Yazılmış Bir Programdır.💯  

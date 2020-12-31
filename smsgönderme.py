@@ -95,10 +95,5 @@ banner = print(Fore.GREEN+
 Discord: Alvatador#1000""")
 
 
-banner = print(Fore.YELLOW+"""
-
-İnstagram: boranokans""")
-
-
 
 
